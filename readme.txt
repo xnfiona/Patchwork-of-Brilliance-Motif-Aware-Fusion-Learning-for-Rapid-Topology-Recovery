@@ -1,4 +1,7 @@
-processtools.py：通用的处理函数
-Robustness.py：鲁棒得分模型GCNEmbedderDecoder.py：Embedder和Decoder模型GRU.py：GRU模型
-train_EmbedderDecoder_group.py：训练Embedder和Decoder的网络
+processtools.py:Various processing function tools
+Robustness.py:Robust scoring model
+GCNEmbedderDecoder.py:Embedder and Decoder model
+GRU.py:GRU model
+train_EmbedderDecoder_group.py:Use this file, you can train Embedder and Decoder networks.
+
 
