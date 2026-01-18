@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time    : 2025/6/26 9:13 下午
-# @Author  : xuenan
 # @Site    : 
 # @File    : GRU.py
 # @Software: PyCharm
