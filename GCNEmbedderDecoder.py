@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time    : 2025/6/26 3:26 下午
-# @Author  : xuenan
 # @Site    : 
 # @File    : GCNEmbedderDecoder.py
 # @Software: PyCharm
