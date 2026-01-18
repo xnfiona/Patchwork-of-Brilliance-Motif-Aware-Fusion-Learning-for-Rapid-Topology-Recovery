@@ -1,16 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time    : 2025/6/28 5:43 下午
-# @Author  : xuenan
 # @Site    : 
 # @File    : train_EmbedderDecoder.py
-# @Software: PyCharm
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time    : 2025/6/20 9:22 下午
-# @Author  : xuenan
-# @Site    :
-# @File    : test_decoder_new.py
 # @Software: PyCharm
 from processtools import *
 from GCNEmbedderDecoder import *
